@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yubee
+- 👋 Hi, I’m @PatrickUbong
 - 👀 I am a Frontend developer(Javascript, Typescript, Reactjs, Nodejs, Express, Mongodb, Prisma, Bootstrapcss and Tailwindcss)
 - 💞️ I’m looking to collaborate on exciteing projects
 - 📫 How to reach me:
-- on Twitter@bougzzy
+- on Twitter@IamPatrickUbong
 - Email: yubee121@gmail.com
 
 <!---
