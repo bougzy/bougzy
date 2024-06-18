@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bougzy
+- 👋 Hi, I’m @yubee
 - 👀 I am a Frontend developer(Javascript, Typescript, Reactjs, Nodejs, Express, Mongodb, Prisma, Bootstrapcss and Tailwindcss)
 - 💞️ I’m looking to collaborate on exciteing projects
 - 📫 How to reach me:
