@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PatrickUbong
-- 👀 I am a Frontend developer(Javascript, Typescript, Reactjs, Nodejs, Express, Mongodb, Prisma, Bootstrapcss and Tailwindcss)
+- 👀 I am a Frontend developer(Javascript, Typescript, Reactjs, React native, React native expo, Nodejs, Express, Mongodb, Prisma, Bootstrapcss and Tailwindcss)
 - 💞️ I’m looking to collaborate on exciteing projects
 - 📫 How to reach me:
 - on Twitter@IamPatrickUbong
-- Email: yubee121@gmail.com
+- Email: patrickubongkingsley@gmail.com
 
 <!---
 PatrickUbong/PatrickUbong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
