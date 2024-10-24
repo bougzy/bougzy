@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatrickUbong
-- 👀 I am a Frontend developer(Javascript, Typescript, Reactjs, React native, React native expo, Nodejs, Express, Mongodb, Prisma, Bootstrapcss and Tailwindcss)
+- 👀 I am a Frontend developer(Javascript, Typescript, Reactjs, React native, React native expo, Nodejs, Express, Mongodb, Postgress, SQL, Prisma, Docker, Redux Toolkit, Graphql, AWS, Bootstrapcss and Tailwindcss)
 - 💞️ I’m looking to collaborate on exciteing projects
 - 📫 How to reach me:
 - on Twitter@IamPatrickUbong
