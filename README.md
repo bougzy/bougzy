@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @PatrickUbong
-- 👀 I am a Frontend developer(Javascript, Typescript, Reactjs, React native, React native expo, Nodejs, Express, Mongodb, Postgress, SQL, Prisma, Docker, Redux Toolkit, TanStack, Web3, Blockchain, Graphql, AWS, Bootstrapcss and Tailwindcss)
-- 💞️ I’m looking to collaborate on exciteing projects
-- 📫 How to reach me:
-- on Twitter@IamPatrickUbong
-- Email: patrickubongkingsley@gmail.com
+👋 Hi, I’m Ubong Patrick
+
+I’m a frontend-focused full-stack developer working with React and Node.js.
+I build scalable web applications with a strong emphasis on clean architecture,
+authentication, and real-world usability.
+
+🧠 What I focus on:
+- React component architecture & API integration
+- Node.js & Express REST APIs
+- Authentication & authorization (JWT, roles)
+- MongoDB data modeling
+- Maintainable, production-ready code
+
+🚀 Current stack:
+- Frontend: React, JavaScript, Bootstrap
+- Backend: Node.js, Express
+- Database: MongoDB
+- Tools: Git, GitHub, Axios
+
+📚 Learning in public:
+I share what I learn while building real projects and solving practical problems.
+
+📫 Let’s connect:
+LinkedIn: https://www.linkedin.com/in/patrick-ubong
+Twitter@IamPatrickUbong
+Email: patrickubongkingsley@gmail.com
 
 <!---
 PatrickUbong/PatrickUbong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
