@@ -10,12 +10,14 @@ authentication, and real-world usability.
 - Authentication & authorization (JWT, roles)
 - MongoDB data modeling
 - Maintainable, production-ready code
+- Wordpress Development
 
 🚀 Current stack:
 - Frontend: React, JavaScript, Bootstrap
-- Backend: Node.js, Express
+- Backend: Node.js, Express, PHP
 - Database: MongoDB
 - Tools: Git, GitHub, Axios
+  
 
 📚 Learning in public:
 I share what I learn while building real projects and solving practical problems.
