@@ -1,6 +1,6 @@
 👋 Hi, I’m Ubong Patrick
 
-I’m a frontend-focused full-stack developer working with React and Node.js.
+I’m a frontend-focused full-stack developer working with React, Wordpress, PHP, and Node.js.
 I build scalable web applications with a strong emphasis on clean architecture,
 authentication, and real-world usability.
 
@@ -14,8 +14,8 @@ authentication, and real-world usability.
 
 🚀 Current stack:
 - Frontend: React, JavaScript, Bootstrap
-- Backend: Node.js, Express, PHP
-- Database: MongoDB
+- Backend: Node.js, Express, PHP, MySQL
+- Database: MongoDB, MySQL, Postgress
 - Tools: Git, GitHub, Axios
   
 
